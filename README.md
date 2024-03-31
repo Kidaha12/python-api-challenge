@@ -14,4 +14,6 @@ The code needed to import the required libraries and load the CSV file with the 
 
 Your main tasks will be to use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualizations.
 
-To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the steps:
+To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the steps.
+
+References: some of the coding syntaxt was referenced from https://github.com/yeyanwang/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb.
